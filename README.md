@@ -8,8 +8,7 @@
 </p>
 
 - 👨‍💻 Check out all my projects here: [GitHub Portfolio(https://github.com/somyayq)]
-- 💬 Ask me about **Competitive Programming, Web Development, Data Science, Software Engineering, JavaScript, GSAP, Java, C++, **  
-- 📫 Reach me at: **somyasharam8112004@gmail.com**    
+- 💬 Ask me about **Competitive Programming, Web Development, Data Science, Software Engineering, JavaScript, GSAP, Java, C++,     
 
 ---
 
