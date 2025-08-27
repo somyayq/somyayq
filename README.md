@@ -7,10 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=shukabum&label=Profile%20views&color=0e75b6&style=flat" alt="somya-sharma" /> 
 </p>
 
-- 👨‍💻 Check out all my projects here: [GitHub Portfolio](https://shukabum.vercel.app/)  
-- 💬 Ask me about **Competitive Programming, Web Development, Data Science, Software Engineering, JavaScript, GSAP, Blender, C++, Rust**  
-- 📫 Reach me at: **shukabum17@gmail.com**  
-- ⚡ Fun fact: *I believe in writing clean code and learning at least one new thing daily.*  
+- 👨‍💻 Check out all my projects here: [GitHub Portfolio(https://github.com/somyayq)]
+- 💬 Ask me about **Competitive Programming, Web Development, Data Science, Software Engineering, JavaScript, GSAP, Java, C++, **  
+- 📫 Reach me at: **somyasharam8112004@gmail.com**    
 
 ---
 
