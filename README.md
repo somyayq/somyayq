@@ -1,1 +1,59 @@
-# somya1234go
+# Hi 👋, I'm Somya Sharma  
+
+## 🚀 A Passionate Software Developer  
+✨ Always excited and ready to learn something new every day!  
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shukabum&label=Profile%20views&color=0e75b6&style=flat" alt="somya-sharma" /> 
+</p>
+
+- 👨‍💻 Check out all my projects here: [GitHub Portfolio](https://shukabum.vercel.app/)  
+- 💬 Ask me about **Competitive Programming, Web Development, Data Science, Software Engineering, JavaScript, GSAP, Blender, C++, Rust**  
+- 📫 Reach me at: **shukabum17@gmail.com**  
+- ⚡ Fun fact: *I believe in writing clean code and learning at least one new thing daily.*  
+
+---
+
+### 🌐 Connect with me  
+<p align="left">
+<a href="https://www.linkedin.com/in/somya-sharma-7256192b2/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somya-sharma" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/___somya_sharma/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somya_sharma" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="left"> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/> 
+</p>
+
+---
+
+### 📊 GitHub Stats  
+![](https://github.com/shukabum/shukabum/blob/output/github-contribution-grid-snake-dark.svg)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shukabum&show_icons=true&locale=en&theme=dark" alt="somya's stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shukabum&theme=dark" alt="somya's streak stats" />
+</p>
+
+---
+
+### 🌟 Highlights  
+- 🔥 Enthusiastic about **problem-solving & algorithms**  
+- 🎨 Love to combine **creativity + logic** in projects  
+- 🌍 Open to **collaboration** on exciting open-source projects  
+- 📚 Currently learning **advanced system design & cloud computing**  
+
