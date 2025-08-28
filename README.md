@@ -45,15 +45,11 @@
 ### 📊 GitHub Stats  
 ![](https://github.com/shukabum/shukabum/blob/output/github-contribution-grid-snake-dark.svg)  
 
-
-### 📊 GitHub Stats  
+  
 
 ![Somya's GitHub stats](https://github-readme-stats.vercel.app/api?username=somyayq&show_icons=true&theme=dark)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somyayq&theme=dark)  
  
-
-
 ---
 
 ### 🌟 Highlights  
