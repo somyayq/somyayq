@@ -3,6 +3,10 @@
 ## 🚀 A Passionate Software Developer  
 ✨ Always excited and ready to learn something new every day!  
 
+💬 Ask me about Competitve Programming, Web development, Data Science, Software Engineering, Javascript, Gsap, C++
+
+📫 Drop a message on :somyasharma8112004@gmai.com
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=shukabum&label=Profile%20views&color=0e75b6&style=flat" alt="somya-sharma" /> 
 </p>
@@ -23,14 +27,11 @@
 
 ---
 
-
 ### 📊 GitHub Stats  
-![](https://github.com/shukabum/shukabum/blob/output/github-contribution-grid-snake-dark.svg)  
 
-  
+![somyayq's GitHub stats](https://github-readme-stats.vercel.app/api?username=somyayq&show_icons=true&locale=en)
 
-![Somya's GitHub stats](https://github-readme-stats.vercel.app/api?username=somyayq&show_icons=true&theme=dark)  
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=somyayq" alt="GitHub Streak" /></a>
  
 ---
 
