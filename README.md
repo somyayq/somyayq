@@ -3,8 +3,6 @@
 ## 🚀 A Passionate Software Developer  
 ✨ Always excited and ready to learn something new every day!  
 
-💬 Ask me about Competitve Programming, Web development, Data Science, Software Engineering, Javascript, Gsap, C++
-
 📫 Drop a message on :somyasharma8112004@gmai.com
 
 <p align="left"> 
