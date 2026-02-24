@@ -11,7 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=somyayq&label=Profile%20views&color=0e75b6&style=flat" alt="somya-sharma" />  
 </p>  
 
-👨‍💻 Check out all my projects here: [GitHub Portfolio](https://github.com/somyayq)  
 
 ---
 
