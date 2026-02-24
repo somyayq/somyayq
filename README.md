@@ -24,7 +24,7 @@
   </a>
 </p>  
 
-![](https://github.com/somyayq/somyayq/blob/output/github-contribution-grid-snake.svg)
+
 ![](https://github.com/somyayq/somyayq/blob/output/github-contribution-grid-snake-dark.svg)
 
 
