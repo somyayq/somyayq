@@ -24,7 +24,9 @@
   </a>
 </p>  
 
+![](https://github.com/somyayq/somyayq/blob/output/github-contribution-grid-snake.svg)
 ![](https://github.com/somyayq/somyayq/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ### 📊 GitHub Stats
 ![Somya's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=somyayq)
