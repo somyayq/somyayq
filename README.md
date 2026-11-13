@@ -1,4 +1,4 @@
-# Hi 👋, I'm Somya Sharma  
+# Hi, I'm Somya Sharma  
 
 ## 🚀 A Passionate Software Developer  
 ✨ Always excited and ready to learn something new every day!  
